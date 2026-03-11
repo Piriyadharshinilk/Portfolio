@@ -4,7 +4,7 @@
   <img src="templatemo_603_nexaverse/images/mine.jpeg" alt="Piriyadharshini" width="200" style="border-radius: 50%;">
 </p>
 
-## Summary
+## Intro
 Passionate Computer Science student specializing in Cyber Security, focused on developing intelligent, secure, and user-friendly applications while exploring advancements in Artificial Intelligence and software development.
 
 ## About Me
