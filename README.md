@@ -1,7 +1,7 @@
 # Portfolio - Piriyadharshini
 
 <p align="center">
-  <img src="templatemo_603_nexaverse/images/mine.jpeg" alt="Piriyadharshini" width="200" style="border-radius: 50%;">
+  <img src="images/mine.jpeg" alt="Piriyadharshini" width="200" style="border-radius: 50%;">
 </p>
 
 ## Intro
